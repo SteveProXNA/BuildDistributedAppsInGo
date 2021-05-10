@@ -1,8 +1,9 @@
 # Building Distributed Apps in Go
-Code from Building Distributed Applications with Go Pluralsight course
+Code from Building Distributed Applications in Go Pluralsight course
+<br />
 https://app.pluralsight.com/library/courses/building-distributed-applications-go
-By Mike Van Sickle
-https://github.com/vansimke
+
+By Mike Van Sickle https://github.com/vansimke
 
 ```bash
 cd app/cmd/registryservice
